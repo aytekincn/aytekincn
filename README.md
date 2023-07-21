@@ -1,6 +1,15 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> , I'm Aytekin
 
-<h3 align="center">Graduated from Istanbul Gelisim University. Transitioned into programming and data analysis with SQL and Tableau during the period of my university education. Finished various types of data analysis projects as a freelancer. Became adept at data analysis with Python alongside with Numpy and Pandas frameworks. Built the foundation of mobile development with Java, advanced in the field with Dart and Flutter while continuously doing research in data analysis field.</h3>
+<h3 align="center">I utilize most of my time working on
+SQL, Tableau, Microsoft PowerBI and Python. I spend the
+remaining time with mobile development. I want to be involved throughout
+the last year of my uni education, I started out with one of my
+department courses Python, and decided to advance myself with
+Pandas and Numpy alongside with SQL. Then, as a result of my
+research on data visualization tools, I entered the realm of
+Tableau and Microsoft PowerBI. As I follow the developments in
+the industry, I simultaneously maintain my programming skills
+functional by developing hobby applications in the mobile field..</h3>
 
 - 🌱 I’m currently learning **Dart - Flutter**
 
