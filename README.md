@@ -2,7 +2,7 @@
 
 <h3 align="center">I utilize most of my time working on
 SQL, Tableau, Microsoft PowerBI and Python. I spend the
-remaining time with mobile development. </h3>
+remaining time with mobile development.  </h3>
 
 - 🌱 I’m currently learning **Dart - Flutter**
 
