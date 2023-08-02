@@ -2,14 +2,7 @@
 
 <h3 align="center">I utilize most of my time working on
 SQL, Tableau, Microsoft PowerBI and Python. I spend the
-remaining time with mobile development. I want to be involved throughout
-the last year of my uni education, I started out with one of my
-department courses Python, and decided to advance myself with
-Pandas and Numpy alongside with SQL. Then, as a result of my
-research on data visualization tools, I entered the realm of
-Tableau and Microsoft PowerBI. As I follow the developments in
-the industry, I simultaneously maintain my programming skills
-functional by developing hobby applications in the mobile field..</h3>
+remaining time with mobile development. </h3>
 
 - 🌱 I’m currently learning **Dart - Flutter**
 
