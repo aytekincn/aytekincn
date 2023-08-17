@@ -4,7 +4,7 @@
 SQL, Tableau, Microsoft PowerBI and Python. I spend the
 remaining time with mobile development.  </h3>
 
-- 🌱 I’m currently learning **Dart - Flutter**
+- 🌱 I’m currently learning **Machine Learning - Data Science - Flutter**
 
 - 📫 How to reach me **aytekincan92@gmail.com**
 
