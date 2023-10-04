@@ -1,7 +1,7 @@
 <h1 align="center" > Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> , I'm Aytekin
 
 
-<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=200&color=0000FF&center=true&width=435&lines=Data+Analyst;Python+Developer" alt="Typing SVG" /></h1>
+<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=200&color=00FFFF&center=true&width=435&lines=Data+Analyst;Python+Developer" alt="Typing SVG" /></h1>
 
 <h3 align="center">I utilize most of my time working on
 SQL, Tableau, Microsoft PowerBI and Python. I spend the
