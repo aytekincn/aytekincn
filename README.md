@@ -5,7 +5,7 @@
 
 <h3 align="center">I utilize most of my time working on
 SQL, Tableau, Microsoft PowerBI and Python. I spend the
-remaining time with mobile development.  </h3>
+remaining time with mobile development. <src =  color = #00FFFF >  </h3>
 
 - 🌱 I’m currently learning **Data Analysis - Data Science - Flutter**
 
