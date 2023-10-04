@@ -3,9 +3,9 @@
 
 <h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=200&color=00FFFF&center=true&width=435&lines=Data+Analyst;Python+Developer" alt="Typing SVG" /></h1>
 
-<h3 align="center">I utilize most of my time working on
+<h3 align="center" src =  color = #00FFFF >I utilize most of my time working on
 SQL, Tableau, Microsoft PowerBI and Python. I spend the
-remaining time with mobile development. <src =  color = #00FFFF >  </h3>
+remaining time with mobile development.   </h3>
 
 - 🌱 I’m currently learning **Data Analysis - Data Science - Flutter**
 
