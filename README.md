@@ -38,12 +38,19 @@ remaining time with mobile development.   </h3>
   </a>
 </div>
 
+
 <div align="center">
   <a href="https://github.com/aytekincn">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aytekincn&theme=slateorange" />
+    
   </a>
   
   </div>
+
+
+
+
+
 
 
 
